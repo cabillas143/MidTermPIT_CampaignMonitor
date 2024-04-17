@@ -24,3 +24,21 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
+
+<style id="nelio-ab-testing-overlay" type="text/css">@keyframes nelio-ab-testing-overlay{to{width:0;height:0}}html::before,body::before{animation:1ms 2500ms linear nelio-ab-testing-overlay forwards;background:#fff!important;display:block;content:"";position:fixed;top:0;left:0;width:100vw;height:120vh;mouse-events:none;z-index:9999999999}</style>
+
+<style type="text/css">
+    .st0{fill:#FFFFFF;}
+    .st1{fill:#FFFFFF;}
+    .st2{fill:#7856FF;}
+</style>
+
+<style type="text/css">
+      .tippy-box {
+         background-color: #333;
+         color: #ffffff;
+      }
+      .tippy-arrow {
+         color: #333;
+      }
+   </style>
